@@ -1,12 +1,18 @@
-## Hi there 👋
+<div align="center">
+ 
+<img src="wiredev_full-width.png" alt="WireDev" width="350" />
+<h1>IT-Services</h1>
+ 
+![GitHub Org's stars](https://img.shields.io/github/stars/WireDev-IT?style=flat-square) ![GitHub Sponsors](https://img.shields.io/github/sponsors/WireDev-IT?style=flat-square) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.wiredev.de)
+ 
+</div>
+<br>
+<br>
 
-<!--
+## Our Services:
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- CCTV
+- WordPress Websites
+- Mircosoft Office Addons
+- Networkmanagement
+- Uptime monitoring
