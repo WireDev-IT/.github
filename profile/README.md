@@ -12,7 +12,6 @@
 ## Our Services:
 
 - CCTV
-- WordPress Websites
-- Mircosoft Office Addons
-- Networkmanagement
+- Website development
+- Network management
 - Uptime monitoring
